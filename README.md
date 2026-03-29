@@ -12,6 +12,12 @@
 3. Place the `.jar` file in the `mods` folder
 4. Luanch the game
 
+## Compiling from source
+Please note that building from source the first time can take several minutes.
+- Build jar: `gradlew build`
+- Run dev: `gradlew runClient`
+- Fix issues: `gradlew --refresh-dependencies clean`
+
 ## Contribution
 Contributors are always welcome! Pull requests are open! Fork me!
 
